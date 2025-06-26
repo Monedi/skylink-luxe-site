@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/skylink-luxe-site/static/css/main.397b2038.css",
-    "main.js": "/skylink-luxe-site/static/js/main.5f3be610.js",
+    "main.js": "/skylink-luxe-site/static/js/main.2c6cff9e.js",
     "index.html": "/skylink-luxe-site/index.html",
     "main.397b2038.css.map": "/skylink-luxe-site/static/css/main.397b2038.css.map",
-    "main.5f3be610.js.map": "/skylink-luxe-site/static/js/main.5f3be610.js.map"
+    "main.2c6cff9e.js.map": "/skylink-luxe-site/static/js/main.2c6cff9e.js.map"
   },
   "entrypoints": [
     "static/css/main.397b2038.css",
-    "static/js/main.5f3be610.js"
+    "static/js/main.2c6cff9e.js"
   ]
 }
